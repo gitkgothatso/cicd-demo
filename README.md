@@ -1,5 +1,7 @@
 ## Micronaut 4.6.3 Documentation
 
+[![cicd-demo](https://github.com/gitkgothatso/cicd-demo/actions/workflows/cicd-workflow.yaml/badge.svg)](https://github.com/gitkgothatso/cicd-demo/actions/workflows/cicd-workflow.yaml)
+
 - [User Guide](https://docs.micronaut.io/4.6.3/guide/index.html)
 - [API Reference](https://docs.micronaut.io/4.6.3/api/index.html)
 - [Configuration Reference](https://docs.micronaut.io/4.6.3/guide/configurationreference.html)
