@@ -16,6 +16,7 @@ jobs:
       - name: Setup Java JDK
         uses: actions/setup-java@v4.5.0
         with:
+          distribution: 'temurin'
           java-version: 17
       - name: 'Check Java Version'
         run: |
